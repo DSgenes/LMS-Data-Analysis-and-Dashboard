@@ -14,10 +14,10 @@ As part of this initiative, Anam successfully:
 
 - Extracted LMS data for Grades 1–6.
 - Performed separate grade-wise analysis in Microsoft Excel using Pivot Tables and Pivot Charts to generate automated summary reports.
-• Consolidated all grade-wise datasets in Power BI using data transformation and append operations to create a unified analytical model.
-• Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs), including upload performance, grade-wise 
+- Consolidated all grade-wise datasets in Power BI using data transformation and append operations to create a unified analytical model.
+- Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs), including upload performance, grade-wise 
   analysis, subject-wise analysis, weekly trends, daily trends, and overall LMS activity.
-• Presented clear, interactive insights that enabled the Principal and academic leadership to monitor teachers' LMS upload performance,
+- Presented clear, interactive insights that enabled the Principal and academic leadership to monitor teachers' LMS upload performance,
   evaluate activity against the planned academic schedule, and support informed decision-making.
 
 This project streamlined the reporting process, reduced manual effort, improved data accuracy, and provided management with interactive 
