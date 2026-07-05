@@ -33,6 +33,27 @@ than assuming daily uploads for every subject.
 # Excel Analysis
 # Pivot Table Automation - Grade 1
 ![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/f317411eec1100e4b3c619d58d31b31687fd17ed/Image-G1-1.png)
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G1-2.png)
+
+# Grade 2
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G2-1.png)
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G2-2.png)
+
+# Grade 3
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G3-1.png)
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G3-2.png)
+
+# Grade 4
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G4-1.png)
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G4-2.png)
+
+# Grade 5
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G5-1.png)
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G5-2.png)
+
+# Grade 6
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G6-1.png)
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G6-2.png)
 
 
 
