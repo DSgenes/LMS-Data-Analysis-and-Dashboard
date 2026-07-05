@@ -1,0 +1,71 @@
+Subject	Date	Day	Week	R.A	C.W
+English	4/1/2026	Wednesday	1	No	No
+Maths	4/1/2026	Wednesday	1	No	Yes
+Urdu	4/1/2026	Wednesday	1	Yes	Yes
+G.K/Science	4/1/2026	Wednesday	1	No	No
+Islamiyat	4/1/2026	Wednesday	1	No	No
+Social Studies	4/1/2026	Wednesday	1	No	No
+ICT	4/1/2026	Wednesday	1	No	Yes
+English	4/2/2026	Thursday	1	Yes	No
+Maths	4/2/2026	Thursday	1	No	No
+Urdu	4/2/2026	Thursday	1	No	No
+G.K/Science	4/2/2026	Thursday	1	Yes	No
+Islamiyat	4/2/2026	Thursday	1	No	No
+Social Studies	4/2/2026	Thursday	1	No	No
+ICT	4/2/2026	Thursday	1	No	No
+English	4/3/2026	Friday	1	No	No
+Maths	4/3/2026	Friday	1	Yes	Yes
+Urdu	4/3/2026	Friday	1	Yes	Yes
+G.K/Science	4/3/2026	Friday	1	No	No
+Islamiyat	4/3/2026	Friday	1	Yes	No
+Social Studies	4/3/2026	Friday	1	No	No
+ICT	4/3/2026	Friday	1	No	No
+English	4/6/2026	Monday	2	Yes	No
+Maths	4/6/2026	Monday	2	No	No
+Urdu	4/6/2026	Monday	2	Yes	No
+G.K/Science	4/6/2026	Monday	2	No	No
+Islamiyat	4/6/2026	Monday	2	No	No
+Social Studies	4/6/2026	Monday	2	No	No
+ICT	4/6/2026	Monday	2	No	No
+English	4/7/2026	Tuesday	2	Yes	No
+Maths	4/7/2026	Tuesday	2	No	No
+Urdu	4/7/2026	Tuesday	2	No	No
+G.K/Science	4/7/2026	Tuesday	2	No	No
+Islamiyat	4/7/2026	Tuesday	2	No	No
+Social Studies	4/7/2026	Tuesday	2	No	No
+ICT	4/7/2026	Tuesday	2	No	No
+English	4/8/2026	Wednesday	2	No	No
+Maths	4/8/2026	Wednesday	2	No	No
+Urdu	4/8/2026	Wednesday	2	No	No
+G.K/Science	4/8/2026	Wednesday	2	No	No
+Islamiyat	4/8/2026	Wednesday	2	No	No
+Social Studies	4/8/2026	Wednesday	2	No	No
+ICT	4/8/2026	Wednesday	2	Yes	Yes
+English	4/9/2026	Thursday	2	Yes	No
+Maths	4/9/2026	Thursday	2	No	Yes
+Urdu	4/9/2026	Thursday	2	No	No
+G.K/Science	4/9/2026	Thursday	2	No	No
+Islamiyat	4/9/2026	Thursday	2	No	No
+Social Studies	4/9/2026	Thursday	2	No	No
+ICT	4/9/2026	Thursday	2	No	No
+English	4/10/2026	Friday	2	Yes	No
+Maths	4/10/2026	Friday	2	Yes	Yes
+Urdu	4/10/2026	Friday	2	Yes	Yes
+G.K/Science	4/10/2026	Friday	2	No	No
+Islamiyat	4/10/2026	Friday	2	No	No
+Social Studies	4/10/2026	Friday	2	No	No
+ICT	4/10/2026	Friday	2	No	No
+English	4/13/2026	Monday	3	No	No
+Maths	4/13/2026	Monday	3	No	No
+Urdu	4/13/2026	Monday	3	No	No
+G.K/Science	4/13/2026	Monday	3	No	Yes
+Islamiyat	4/13/2026	Monday	3	No	No
+Social Studies	4/13/2026	Monday	3	No	No
+ICT	4/13/2026	Monday	3	No	No
+English	4/14/2026	Tuesday	3	Yes	No
+Maths	4/14/2026	Tuesday	3	No	No
+Urdu	4/14/2026	Tuesday	3	No	No
+G.K/Science	4/14/2026	Tuesday	3	No	No
+Islamiyat	4/14/2026	Tuesday	3	No	No
+Social Studies	4/14/2026	Tuesday	3	No	No
+ICT	4/14/2026	Tuesday	3	No	No
