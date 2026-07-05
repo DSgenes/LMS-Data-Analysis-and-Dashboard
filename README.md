@@ -22,14 +22,8 @@ As part of this initiative, Anam successfully:
 
 This project streamlined the reporting process, reduced manual effort, improved data accuracy, and provided management with interactive 
 dashboards and actionable insights to support academic planning and continuous organizational improvement.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Important Note:
 
-The analysis presented in this dashboard is based on the school's approved academic timetable and LMS upload schedule. Reinforcement Assignments (R.A.)
-and Classwork (C.W.) uploads were planned according to the designated teaching schedule for each subject. Therefore, the dashboard evaluates teachers' 
-LMS upload activity in the context of the scheduled academic plan, ensuring that the insights accurately reflect planned instructional activities rather
-than assuming daily uploads for every subject.
-
+------------------------------------------------------------------------------------------------------------------------------------
 # Excel Analysis
 # Pivot Table Automation - Grade 1
 ![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/f317411eec1100e4b3c619d58d31b31687fd17ed/Image-G1-1.png)
@@ -63,6 +57,15 @@ than assuming daily uploads for every subject.
 # Dashboard
 # Performance Overview 
 ![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/6f8b66fea8bc20e5e3453ef383af008572d2b848/Dashboard-Image-1.png)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+# Important Note:
+
+The analysis presented in this dashboard is based on the school's approved academic timetable and LMS upload schedule. Reinforcement Assignments (R.A.)
+and Classwork (C.W.) uploads were planned according to the designated teaching schedule for each subject. Therefore, the dashboard evaluates teachers' 
+LMS upload activity in the context of the scheduled academic plan, ensuring that the insights accurately reflect planned instructional activities rather
+than assuming daily uploads for every subject.
 
 
 
