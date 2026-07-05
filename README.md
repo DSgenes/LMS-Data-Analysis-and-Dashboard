@@ -55,5 +55,14 @@ than assuming daily uploads for every subject.
 ![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G6-1.png)
 ![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/b40c0275375b9e25daffd60a2757b64a3e8b8939/Image-G6-2.png)
 
+# Dashboard Preview in Power BI
+# Data Modeling
+# Star Schema
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/6f8b66fea8bc20e5e3453ef383af008572d2b848/Star%20Schema-1.png)
+
+# Dashboard
+# Performance Overview 
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/6f8b66fea8bc20e5e3453ef383af008572d2b848/Dashboard-Image-1.png)
+
 
 
