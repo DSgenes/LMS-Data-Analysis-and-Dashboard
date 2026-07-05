@@ -32,7 +32,7 @@ than assuming daily uploads for every subject.
 
 # Excel Analysis
 # Pivot Table Automation - Grade 1
-![Excel Pivot Table Analysis](Images/Image-G1-1.png)
+![LMS-Data-Analysis-and-Dashboard](Images/Image-G1-1.png)
 
 
 
