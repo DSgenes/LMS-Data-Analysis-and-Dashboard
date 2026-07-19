@@ -56,7 +56,7 @@ dashboards and actionable insights to support academic planning and continuous o
 
 # Dashboard
 # Performance Overview 
-![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/6f8b66fea8bc20e5e3453ef383af008572d2b848/Dashboard-Image-1.png)
+![image_alt](https://github.com/DSgenes/LMS-Data-Analysis-and-Dashboard/blob/610d347348cea4c9efd520e60c9c77c179586ee3/Image-13.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
